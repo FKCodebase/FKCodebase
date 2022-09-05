@@ -1,7 +1,7 @@
 <!---
 --- My Label ---
 -->
- <img align="center" alt="Coding" width="1000" src="https://github.com/FKCodebase/FKCodebase/blob/master/LowQualy.png">
+ <img align="center" alt="Coding" width="1000" src="https://github.com/FKCodebase/FKCodebase/blob/master/GifRender.gif">
 
 
 ### Hello World
