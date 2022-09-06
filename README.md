@@ -13,6 +13,11 @@
 -->
 <h1 align="left"> Hello there </h1>
 
+<!---
+GitHubStats
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=moltack&show_icons=true)
+
 <h3 align="left">Hi, i'm Fabian, a research assistant in genome informatics and student from germany.
 I'm passionate about phylogenetics, comparative genomics, algorithmic stochastics
 and algorithm engineering.
@@ -71,22 +76,19 @@ including proofs and documentation.
 ```
 
 <!---
---- Science ---
--->
-<h3 align="left">Interesting news:</h3>
-
-
-<!---
 Top Langs
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FKCodebase&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
+--- Science ---
+-->
+<h3 align="left">Let's talk about science:</h3>
 
 <!---
 Contact
 -->
 <h3 align="left">Connect with me:</h3> fkcodebase@gmail.com
-
 
 <!---
 Lit---
@@ -94,13 +96,6 @@ Lit---
 <h3 align="left">The good lit:</h3>
 
 [Machine Learning: A Probabilistic Perspective](https://www.amazon.de/Machine-Learning-Probabilistic-Perspective-computation/dp/0262018020)
-
-<!---
-GitHubStats
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=moltack&show_icons=true)
-
 
 ```diff
 print("Roses are red."
