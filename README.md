@@ -36,7 +36,6 @@ Contact
 
      - 🌱 I’m currently learning: Unreal Engine 5
      
-     - 📫 How to reach me
   </td>
   
   <td>
