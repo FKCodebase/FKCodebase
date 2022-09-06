@@ -27,6 +27,8 @@ and algorithm engineering.
 
 - 🤝 Teach me about **Docker & AWS**
 
+- 🌱 I’m currently learning **Unreal Engine 5**
+
 - 📫 How to reach me **fkcodebase@gmail.com**
 
 <!---
@@ -47,28 +49,58 @@ and algorithm engineering.
 -->
 <h3 align="left">Current and upcomming projects: </h3>
 
-<h4 align="left">CoreTex: A lightweight python application backbone (Not started) </h4>
+__CoreTex__
+```diff
+A lightweight python application backbone.
++ News:
+... Still planning ...
+```
 
-<h4 align="left">Bio Tiles: A workflow manager (Not started) </h4>
+__Bio Tiles__
+```diff
+A small graph based open source workflow manager.
++ News:
+... Still planning ...
+```
 
-<h4 align="left">DSD (Data structure dump): A collection of useful data structures (Not started) </h4>
+__[Snippet Dump](https://github.com/FKCodebase/Snippet-Dump)__
+```diff
+A collection of frequently used algorithm and data structure implementations
+including proofs and documentation.
++ News:
+```
 
 <!---
---- Top Langs ---
+--- Science ---
+-->
+<h3 align="left">Interesting news:</h3>
+
+
+<!---
+Top Langs
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FKCodebase&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
---- Contact ---
+Contact
 -->
-<h3 align="left">Connect with me:</h3>
-📫 fkcodebase@gmail.com
+<h3 align="left">Connect with me:</h3> fkcodebase@gmail.com
+
 
 <!---
---- GitHubStats ---
+Lit---
 -->
+<h3 align="left">The good lit:</h3>
+
+[Machine Learning: A Probabilistic Perspective](https://www.amazon.de/Machine-Learning-Probabilistic-Perspective-computation/dp/0262018020)
+
+<!---
+GitHubStats
+-->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=moltack&show_icons=true)
+
 
 ```diff
 print("Roses are red."
