@@ -15,7 +15,7 @@
 
 <h3 align="left">Hi, i'm Fabian, a research assistant in genome informatics and student from germany.
 I'm passionate about phylogenetics, comparative genomics, algorithmic stochastics
-and algorithmic engineering.
+and algorithm engineering.
 </h3>
 
 <!---
