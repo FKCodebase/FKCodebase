@@ -13,7 +13,10 @@
 -->
 <h1 align="left"> Hello there </h1>
 
-<h3 align="left">Hi, i'm Fabian, a research assistant in genome informatics and student from germany. I'm passionate about ...</h3>
+<h3 align="left">Hi, i'm Fabian, a research assistant in genome informatics and student from germany.
+I'm passionate about phylogenetics, comparative genomics, algorithmic stochastics
+and algorithmic engineering.
+</h3>
 
 <!---
 --- Small Signs ---
@@ -42,13 +45,13 @@
 <!---
 --- Projects ---
 -->
-<h3 align="left">Current projects: </h3>
+<h3 align="left">Current and upcomming projects: </h3>
 
-<h4 align="left">CoreTex: A lightweight python application backbone </h4>
+<h4 align="left">CoreTex: A lightweight python application backbone (Not started) </h4>
 
-<h4 align="left">Bio Tiles: A workflow manager </h4>
+<h4 align="left">Bio Tiles: A workflow manager (Not started) </h4>
 
-<h4 align="left">DSD (Data structure dump): A collection of useful data structures</h4>
+<h4 align="left">DSD (Data structure dump): A collection of useful data structures (Not started) </h4>
 
 <!---
 --- Top Langs ---
@@ -69,7 +72,7 @@
 
 ```diff
 print("Roses are red."
-print(Violets are blue.")
-- SyntaxError: unexpected EOF
+print("Violets are blue.")
+- SyntaxError:
 - while parsing line 2"
 ```
