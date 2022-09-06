@@ -17,21 +17,23 @@ I'm passionate about phylogenetics, comparative genomics, algorithmic stochastic
 and algorithm engineering.
 </h3>
 
+<!---
+Contact
+-->
+
+<a href="mailto:fkcodebase@mail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <table border="0">
  <tr>
     <td>
      
-
      - 💬 Ask me about: Sequence analysis, Python, Tmux
 
      - 🤝 Teach me about: Docker & AWS
 
      - 🌱 I’m currently learning: Unreal Engine 5
-
-     - 📫 How to reach me: 
      
-     [fkcodebase@gmail.com](mailto:fkcodebase@gmail.com)
-     
+     - 📫 How to reach me
   </td>
   
   <td>
@@ -43,9 +45,9 @@ and algorithm engineering.
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=algolia&show_icons=true)
    
   </td>
-  
  </tr>
 </table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -95,11 +97,6 @@ Phylogenetic reconstruction (I'm part of this project):
 
 [Sans Serif](https://academic.oup.com/bioinformatics/article/37/24/4868/6300510)
 <br />
-
-<!---
-Contact
--->
-<h3 align="left">Connect with me:</h3> fkcodebase@gmail.com
 
 <!---
 Lit---
