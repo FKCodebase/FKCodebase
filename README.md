@@ -12,16 +12,15 @@
 --- Me ---
 -->
 <h1 align="left"> Hello there </h1>
-
-<!---
-GitHubStats
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=moltack&show_icons=true)
-
 <h3 align="left">Hi, i'm Fabian, a research assistant in genome informatics and student from germany.
 I'm passionate about phylogenetics, comparative genomics, algorithmic stochastics
 and algorithm engineering.
 </h3>
+
+<!---
+GitHubStats
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=algolia&show_icons=true)
 
 <!---
 --- Small Signs ---
@@ -98,8 +97,8 @@ Lit---
 [Machine Learning: A Probabilistic Perspective](https://www.amazon.de/Machine-Learning-Probabilistic-Perspective-computation/dp/0262018020)
 
 ```diff
-print("Roses are red."
-print("Violets are blue.")
++ print("Roses are red."
++ print("Violets are blue.")
 - SyntaxError:
 - while parsing line 2"
 ```
