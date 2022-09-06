@@ -17,27 +17,35 @@ I'm passionate about phylogenetics, comparative genomics, algorithmic stochastic
 and algorithm engineering.
 </h3>
 
-<!---
-GitHubStats
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=algolia&show_icons=true)
+<table border="0">
+ <tr>
+    <td>
+     
 
-<!---
---- Small Signs ---
--->
-- 🔭 I’m currently working on **CoreTex**
+     - 💬 Ask me about: Sequence analysis, Python, Tmux
 
-- 💬 Ask me about **Sequence analysis, Python, Tmux**
+     - 🤝 Teach me about: Docker & AWS
 
-- 🤝 Teach me about **Docker & AWS**
+     - 🌱 I’m currently learning: Unreal Engine 5
 
-- 🌱 I’m currently learning **Unreal Engine 5**
-
-- 📫 How to reach me **fkcodebase@gmail.com**
-
-<!---
- - 📄 Know about my experiences [[Todo: Add link]]([Todo: Add link])
--->
+     - 📫 How to reach me: 
+     
+     [fkcodebase@gmail.com](mailto:fkcodebase@gmail.com)
+     
+  </td>
+  
+  <td>
+   
+   <!---
+   GitHubStats
+   -->
+    
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKCodebase&theme=algolia&show_icons=true)
+   
+  </td>
+  
+ </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
