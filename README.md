@@ -7,6 +7,7 @@
 --- Views ---
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkcodebase&label=Profile%20views&color=0e75b6&style=flat" alt="fkcodebase" /> </p>
+  
  
 <!---
 --- Me ---
@@ -22,6 +23,8 @@ Contact
 -->
 
 <a href="mailto:fkcodebase@mail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+![Discord Banner 2](https://discordapp.com/api/guilds/1016693495395799131/widget.png?style=banner2)
 
 <table border="0">
  <tr>
