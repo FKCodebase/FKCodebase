@@ -24,6 +24,12 @@ Contact
 
 <a href="mailto:fkcodebase@mail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+</p>
+
 ![Discord Banner 2](https://discordapp.com/api/guilds/1016693495395799131/widget.png?style=banner2)
 
 <table border="0">
