@@ -86,9 +86,9 @@ A small graph based open source workflow manager.
 
 __[Snippet Dump](https://github.com/FKCodebase/Snippet-Dump)__
 ```diff
-A collection of frequently used algorithm and data structure implementations
-including proofs and documentation.
+A collection of frequently used algorithm and data structure implementations.
 + News:
+Implemented a generator for minimal integer ID's.
 ```
 
 <!---
