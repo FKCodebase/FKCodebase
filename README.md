@@ -70,25 +70,32 @@ Contact
 -->
 <h3 align="left">Current and upcomming projects: </h3>
 
+<!---
+--- Projects ---
 __CoreTex__
 ```diff
 A lightweight python application backbone.
 + News:
 ... Still planning ...
 ```
-
 __Bio Tiles__
 ```diff
 A small graph based open source workflow manager.
 + News:
 ... Still planning ...
 ```
+-->
 
 __[Snippet Dump](https://github.com/FKCodebase/Snippet-Dump)__
 ```diff
 A collection of frequently used algorithm and data structure implementations.
 + News:
 Implemented a generator for minimal integer ID's.
+```
+
+__[Planet-B](https://github.com/FKCodebase/PlanetB)__
+```diff
+A fun python game
 ```
 
 <!---
@@ -98,12 +105,11 @@ Top Langs
 
 <!---
 --- Science ---
--->
 <h3 align="left">Let's talk about science:</h3>
 Phylogenetic reconstruction (I'm part of this project):
-
 [Sans Serif](https://academic.oup.com/bioinformatics/article/37/24/4868/6300510)
 <br />
+-->
 
 <!---
 Lit---
