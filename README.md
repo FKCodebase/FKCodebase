@@ -95,7 +95,10 @@ Implemented a generator for minimal integer ID's.
 
 __[Planet-B](https://github.com/FKCodebase/PlanetB)__
 ```diff
-A fun python game
+A fun python game,
++ News:
+Revived this projects,
+currently implementing backbone functionality.
 ```
 
 <!---
