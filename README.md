@@ -97,7 +97,7 @@ __[Planet-B](https://github.com/FKCodebase/PlanetB)__
 ```diff
 A fun python game,
 + News:
-Revived this projects,
+Revived this project,
 currently implementing backbone functionality.
 ```
 
